@@ -24,8 +24,11 @@
   ![alt text](mdfile/image-2.png)
 
 - **說明**：根據查詢條件回傳對應的西瓜價格資料
-- **用途**：前端查詢表單送出後，依條件顯示結果
-  `
+
+![alt text](mdfile/image-3.png)
+![alt text](mdfile/image-4.png)
+
+- **用途**：前端查詢利用 js 送出表單 (request GET)，'api/search' 路由抓取 get 接收表單處理，回傳 (response) 抓到的資料 ( json 格式 ) 給 index.js，再透過新增 html 元素，依條件顯示結果
 
 ## 2. DataBase 建立
 
