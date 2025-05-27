@@ -8,8 +8,8 @@
 - **說明**：回傳所有年份、所有種類的西瓜價格資料
 - **用途**：前端載入時顯示所有資料的表格，或透過元件繪製圖表
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](mdfile/image.png)
+![alt text](mdfile/image-1.png)
 
 ### 1.2 條件查詢西瓜價格資料
 
@@ -21,7 +21,7 @@
   - `price`（可選）：價格篩選
   - `type`（可選）：西瓜種類
 
-  ![alt text](image-2.png)
+  ![alt text](mdfile/image-2.png)
 
 - **說明**：根據查詢條件回傳對應的西瓜價格資料
 - **用途**：前端查詢表單送出後，依條件顯示結果
