@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('CPI_Watermelon:server');
+var debug = require('debug')('CPI_Watermelons:server');
 var http = require('http');
 
 /**
