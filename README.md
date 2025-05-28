@@ -145,7 +145,7 @@ app.get("/api/search", (req, res) => {
 });
 ```
 
-## 6. 小結
+## 6. 結論
 
 - 前端透過 fetch 串接 `/api` 與 `/api/search` 取得資料
 - 後端以 SQLite3 儲存與查詢資料，並提供 GET 方法 API
